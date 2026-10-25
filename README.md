@@ -16,4 +16,4 @@ A console-based Railway Reservation System developed using Core Java.
 - Switch Statement
 - Nested Switch
 - Loops
-- Conditional Statements
+- Conditional Statements.
