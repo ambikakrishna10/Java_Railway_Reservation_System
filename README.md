@@ -1,7 +1,7 @@
 # Java Railway Reservation System
 
 ## Description
-A console-based Railway Reservation System developed using Core Java.
+Developed a console-based Railway Reservation System using Core Java.
 
 ## Features
 - Train Selection
